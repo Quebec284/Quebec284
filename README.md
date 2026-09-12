@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I’m Dickens Miheso 👋<br><br>I’m a Cybersecurity student and aspiring cybersecurity consultant with a strong interest in penetration testing, web security, digital forensics, SOC analysis, malware analysis, and secure software development.<br><br>I enjoy building practical projects, exploring how systems work, identifying security weaknesses, and learning how to defend against real-world cyber threats. I’m continuously improving my skills through hands-on projects, research, and cybersecurity labs.<br><br>💻 Web Development | 🔐 Cybersecurity | 🛡️ SOC Analysis | 🔎 Digital Forensics | 🧪 Penetration Testing<br><br>I believe the best way to learn technology is to build, break, analyze, and improve.
+Hi, I’m Dickens Miheso a Cybersecurity student and an aspiring cybersecurity consultant with a strong interest in penetration testing, web security, digital forensics, SOC analysis, malware analysis, and secure software development. I enjoy building practical projects, exploring how systems work, identifying security weaknesses, and learning how to defend against real-world cyber threats. I’m continuously improving my skills through hands-on projects, research, and cybersecurity labs. 💻 Web Development | 🔐 Cybersecurity | 🛡️ SOC Analysis | 🔎 Digital Forensics |  Penetration Testing.
+I believe the best way to learn technology is to build, break, analyze, and improve.
 
 
 ## 🌐 Socials:
